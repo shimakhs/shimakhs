@@ -49,3 +49,16 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 | **B.Sc.** | Biomedical Engineering (Bioelectric) | Isfahan University | Iran | 2006 – 2011 |
 
 ---
+
+## 🛠️ Skills
+
+| Category | Skills |
+|----------|--------|
+| **Programming** | Python, MATLAB, C++ |
+| **Frameworks** | TensorFlow, PyTorch, OpenCV |
+| **Computer Vision** | Segmentation, Classification, Object Detection, Feature Extraction, Denoising |
+| **Deep Learning** | CNNs, Transfer Learning (ResNet, VGG), Autoencoders |
+| **Machine Learning** | SVM, Random Forest, PCA, ANN |
+| **Imaging** | OCT, X-ray, Microscopy, Industrial Vision (fruit sorting) |
+| **Tools** | Linux, Git, CI/CD, SQL |
+| **Model Interpretability** | Grad-CAM, Occlusion Sensitivity |
