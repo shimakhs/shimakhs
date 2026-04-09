@@ -62,3 +62,4 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 | **Imaging** | OCT, X-ray, Microscopy, Industrial Vision (fruit sorting) |
 | **Tools** | Linux, Git, CI/CD, SQL |
 | **Model Interpretability** | Grad-CAM, Occlusion Sensitivity |
+| **Data / Libraries** | NumPy, Pandas, scikit-learn |
