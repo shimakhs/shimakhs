@@ -52,6 +52,8 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 
 ## 🛠️ Skills
 
+Some of these technologies I use on a daily basis. Some of them I used to use a lot in the past. Even though with some of them I didn't work for a long time, I know how to hack my way through:
+
 | Category | Skills |
 |----------|--------|
 | **Programming** | Python, MATLAB, C++ |
