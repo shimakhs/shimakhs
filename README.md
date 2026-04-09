@@ -24,3 +24,15 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 ## 📫 Contact
 - 📧 Email: zahra.khodabandeh.samani@gmail.com
 - 🔗 LinkedIn: [your link](https://www.linkedin.com/in/zahra-khodabandeh-samani-40006a244/)
+
+---
+
+## 💼 Professional Experience
+
+| Role | Organization | Location | Period | Key Contributions |
+|------|-------------|----------|--------|-------------------|
+| **Head of Image Processing Team** | Fanavaran Teb Pishrafte Soshiant Co. | Isfahan, Iran | 07/2022 – 01/2025 | Developed an **AI-driven computer vision system** for fruit sorting (>500 kg/hour); designed ML-based pipelines for real-time detection, classification, and quality assessment |
+| **Medical Equipment Licensing Expert** | Food and Drug Administration | Isfahan, Iran | 01/2025 – 06/2025 | Evaluated medical devices against international standards; supported approval and production licensing |
+| **Research Assistant (Medical AI)** | Medical Image & Signal Processing Research Center | Iran | 09/2016 – 08/2023 | Developed ML/DL pipelines for OCT-based MS diagnosis; worked with multi-center datasets (Iran, Germany, USA); designed Ellipselet Transform for microscopy-based disease detection |
+| **Lecturer & Teaching Assistant** | Isfahan University of Medical Sciences | Iran | 09/2016 – 01/2024 | Taught Biomedical Image Processing, Signal Processing, MATLAB, and Engineering Mathematics (graduate level) |
+| **Internship – Medical Equipment** | Khorshid Hospital | Isfahan, Iran | 03/2011 – 09/2011 | Performed maintenance, calibration, and troubleshooting of medical devices, ensuring reliable operation |
