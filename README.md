@@ -36,3 +36,16 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 | **Research Assistant (Medical AI)** | Medical Image & Signal Processing Research Center | Isfahan, Iran | 09/2016 – 08/2023 | Developed ML/DL pipelines for OCT-based MS diagnosis; worked with multi-center datasets (Iran, Germany, USA); designed Ellipselet Transform for microscopy-based disease detection |
 | **Lecturer & Teaching Assistant** | Isfahan University of Medical Sciences | Isfahan, Iran | 09/2016 – 01/2024 | Taught Biomedical Image Processing, Signal Processing, MATLAB, and Engineering Mathematics (graduate level) |
 | **Internship – Medical Equipment** | Khorshid Hospital | Isfahan, Iran | 03/2011 – 09/2011 | Performed maintenance, calibration, and troubleshooting of medical devices, ensuring reliable operation |
+
+
+---
+
+## 🎓 Education
+
+| Degree | Field | University | Location | Period |
+|--------|-------|------------|----------|--------|
+| **Ph.D.** | Biomedical Engineering (Bioelectricity) | Isfahan University of Medical Sciences | Iran | 2017 – 2023 |
+| **M.Sc.** | Biomedical Engineering | Isfahan University of Medical Sciences | Iran | 2014 – 2017 |
+| **B.Sc.** | Biomedical Engineering | Isfahan University | Iran | 2006 – 2011 |
+
+---
