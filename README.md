@@ -9,7 +9,7 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 🤓 I hold a PhD in Biomedical Engineering, focused on machine learning and deep learning for clinical image analysis.  
 🌱 My skillset is centered on computer vision and ML/DL, and I’m currently expanding toward building robust, real-world AI systems.  
 🧪 I have experience with multi-center clinical datasets (Germany, USA, Middle East) and industrial computer vision applications.  
-🗣️ Languages: English (fluent), German (A2 – improving), Persian (native)
+🗣️ Languages: English (Fluent), German (A2 – Improving), Persian (Native)
 
 ---
 
