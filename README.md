@@ -44,8 +44,8 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 
 | Degree | Field | University | Location | Period |
 |--------|-------|------------|----------|--------|
-| **Ph.D.** | Biomedical Engineering (Bioelectricity) | Isfahan University of Medical Sciences | Iran | 2017 – 2023 |
-| **M.Sc.** | Biomedical Engineering | Isfahan University of Medical Sciences | Iran | 2014 – 2017 |
-| **B.Sc.** | Biomedical Engineering | Isfahan University | Iran | 2006 – 2011 |
+| **Ph.D.** | Biomedical Engineering (Bioelectric) | Isfahan University of Medical Sciences | Iran | 2017 – 2023 |
+| **M.Sc.** | Biomedical Engineering (Bioelectric) | Isfahan University of Medical Sciences | Iran | 2014 – 2017 |
+| **B.Sc.** | Biomedical Engineering (Bioelectric) | Isfahan University | Iran | 2006 – 2011 |
 
 ---
