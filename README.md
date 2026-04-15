@@ -15,7 +15,7 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 
 
 ## 🛠️ Tech Stack
-- Python | MATLAB | C++
+- Python | MATLAB | C++ | SQL
 - PyTorch | TensorFlow | OpenCV
 - Machine Learning | Deep Learning | Computer Vision
 
