@@ -64,3 +64,5 @@ Some of these technologies I use on a daily basis. Some of them I used to use a 
 | **Imaging** | OCT, MRI, X-ray, Microscopy, Industrial Vision (fruit sorting) |
 | **MLOps** | Version control (Git; GitHub, GitLab), CI/CD pipelines (GitHub Actions, GitLab CI/CD) | 
 | **Model Interpretability** | Grad-CAM, Occlusion Sensitivity |
+| **Systems & Embedded Systems** |  Linux, Raspberry Pi |
+
