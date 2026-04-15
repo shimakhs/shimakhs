@@ -56,12 +56,12 @@ Some of these technologies I use on a daily basis. Some of them I used to use a 
 
 | Category | Skills |
 |----------|--------|
-| **Programming** | Python, MATLAB, C++ |
-| **Frameworks** | TensorFlow, PyTorch, OpenCV |
+| **Programming** | Python, MATLAB, C++, SQL |
+| **Frameworks & Libraries** | TensorFlow, PyTorch, OpenCV, NumPy, Pandas, scikit-learn |
 | **Computer Vision** | Segmentation, Classification, Object Detection, Feature Extraction, Denoising |
 | **Deep Learning** | CNNs, Transfer Learning (ResNet, VGG), Autoencoders |
 | **Machine Learning** | SVM, Random Forest, PCA, ANN |
-| **Imaging** | OCT, X-ray, Microscopy, Industrial Vision (fruit sorting) |
-| **Tools** | Linux, Git, CI/CD, SQL |
+| **Imaging** | OCT, MRI, X-ray, Microscopy, Industrial Vision (fruit sorting) |
+| **MLOps** | Version control (Git; GitHub, GitLab), CI/CD pipelines (GitHub Actions,
+GitLab CI/CD) | 
 | **Model Interpretability** | Grad-CAM, Occlusion Sensitivity |
-| **Data / Libraries** | NumPy, Pandas, scikit-learn |
