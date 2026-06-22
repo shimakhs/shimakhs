@@ -6,7 +6,7 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 
 ## 👩‍💻About Me
 👁️ I work on applying AI to medical imaging, particularly OCT-based analysis for neurological diseases such as multiple sclerosis (MS).  
-🤓 I hold a PhD in Biomedical Engineering, focused on machine learning and deep learning for clinical image analysis.  
+🤓 I am a Biomedical Engineer, focused on machine learning and deep learning for clinical image analysis.  
 🌱 My skillset is centered on computer vision and ML/DL, and I’m currently expanding toward building robust, real-world AI systems.  
 🧪 I have experience with multi-center clinical datasets (Germany, USA, Middle East) and industrial computer vision applications.  
 🗣️ Languages: English (Fluent), German (A2 – Improving), Persian (Native)
@@ -44,7 +44,6 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 
 | Degree | Field | University | Location | Period |
 |--------|-------|------------|----------|--------|
-| **Ph.D.** | Biomedical Engineering (Bioelectric) | Isfahan University of Medical Sciences | Iran | 2017 – 2023 |
 | **M.Sc.** | Biomedical Engineering (Bioelectric) | Isfahan University of Medical Sciences | Iran | 2014 – 2017 |
 | **B.Sc.** | Biomedical Engineering (Bioelectric) | Isfahan University | Iran | 2006 – 2011 |
 
