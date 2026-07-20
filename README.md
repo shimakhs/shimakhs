@@ -23,7 +23,7 @@ AI & Computer Vision Engineer with a biomedical background. I build ML/DL soluti
 
 ## 📫 Contact
 - 📧 Email: zahra.khodabandeh.samani@gmail.com
-- 🔗 LinkedIn: [your link](https://www.linkedin.com/in/zahra-khodabandeh-samani-40006a244/)
+- 🔗 LinkedIn: ([https://www.linkedin.com/in/zahra-khodabandeh-samani-40006a244/](https://www.linkedin.com/in/zahra-khodabandeh-samani-ph-d-40006a244/))
 
 ---
 
